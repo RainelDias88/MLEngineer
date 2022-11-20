@@ -30,7 +30,7 @@ Screenshot showing data uploaded:
 ### Exploratory Data Analysis
 Exploratory Data Analyis (EDA) is very important during ML project. Pandas profiling is a great python packaage that generates profile reports from a pandas DataFrame. The pandas df.describe() function is great but a little basic for serious exploratory data analysis. pandas_profiling extends the pandas DataFrame with df.profile_report() for quick data analysis.
 
-Pandas profiling generates detailed html report, which is added in the project folder. Below is the [file] (./images/output_profile.html")
+Pandas profiling generates detailed html report, which is added in the project folder. Below is the [file] (./images/output_profile.html)
 
 ## Automated ML
 
