@@ -30,7 +30,7 @@ Screenshot showing data uploaded:
 ### Exploratory Data Analysis
 Exploratory Data Analyis (EDA) is very important during ML project. Pandas profiling is a great python packaage that generates profile reports from a pandas DataFrame. The pandas df.describe() function is great but a little basic for serious exploratory data analysis. pandas_profiling extends the pandas DataFrame with df.profile_report() for quick data analysis.
 
-Pandas profiling generates detailed html report, which is added in the project folder. Below is the ([file] (https://github.com/RainelDias88/MLEngineer/blob/4c20a4c78345e394c0643581c26cadad7f5a6e07/images/output_profile.html))
+Pandas profiling generates detailed html report, which is added in the project folder. Below is the [file] (https://github.com/RainelDias88/MLEngineer/blob/4c20a4c78345e394c0643581c26cadad7f5a6e07/images/output_profile.html)
 
 ## Automated ML
 
@@ -136,7 +136,7 @@ Screenshot showing result from endpoint.py :
 [Link](https://www.youtube.com/watch?v=VikMgdOQFA4) to the screen recording.
 
 ## Standout Suggestions
-1. Explored Pandas Profiling package for indepth exploratory data analysis. It helps us generate html report with descriptive stats for all variables, including interactions among variables, corelation, missing values, and samples. ([More info on pandas profiling] (https://github.com/RainelDias88/MLEngineer/blob/4c20a4c78345e394c0643581c26cadad7f5a6e07/images/output_profile.html))
+1. Explored Pandas Profiling package for indepth exploratory data analysis. It helps us generate html report with descriptive stats for all variables, including interactions among variables, corelation, missing values, and samples. [More info on pandas profiling] (https://github.com/RainelDias88/MLEngineer/blob/4c20a4c78345e394c0643581c26cadad7f5a6e07/images/output_profile.html)
 
 2. Application insights is enabled, and log analytics is explored. There is a SQL like language KQL (Kusto Query Language), also called azure data explorer. The log analytics service connects with application insights telemetry data for performance and usage analysis. More information on log analytics can be found [here](https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/log-analytics-tutorial).
 
